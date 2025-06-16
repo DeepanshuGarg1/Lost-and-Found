@@ -1,1 +1,2 @@
-export const api = "https://lost-and-found-9.onrender.com"
+
+export const api = import.meta.env.VITE_API_URL;
