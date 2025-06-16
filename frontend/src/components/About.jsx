@@ -16,6 +16,7 @@ function About() {
             </p>
             <footer>
                 <p>Copyright &copy; 2025</p>
+                <p>Made by <a href="https://github.com/JaskaranBedi1005/Lost-and-Found">codeXception</a></p>
             </footer>
         </section>
     );
