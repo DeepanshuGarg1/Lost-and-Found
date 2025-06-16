@@ -9,3 +9,9 @@ The Lost and Found Bulletin Board project is a community-driven initiative that 
 - **Reunite Owners with Lost Belongings:** Facilitate the reunification of lost items, pets, and belongings with their owners.
 - **Promote Community Engagement:** Actively engage with the local community to promote the use of the Lost and Found Bulletin Board.
 - **Provide Ongoing Support:** Continuously maintain and improve the platform to ensure it remains a valuable resource for the community.
+
+### Languages Used:
+#### Front end : ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+#### Backend : ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+#### Database : ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) <br />
+### API - https://lost-and-found-2-arab.onrender.com
