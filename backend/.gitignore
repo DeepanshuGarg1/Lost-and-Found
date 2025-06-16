@@ -16,7 +16,8 @@ src.env
 .env.production.local
 
 # File uploads
-files/
+files/*
+!files/.gitkeep
 uploads/
 
 # Build output
@@ -34,3 +35,4 @@ Thumbs.db
 
 # MongoDB dump folders
 dump/
+.env
